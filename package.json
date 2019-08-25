@@ -1,0 +1,12 @@
+{
+  "name": "lzc-doing",
+  "version": "1.0.8",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "lzc-echo": "^1.0.3"
+  }
+}
